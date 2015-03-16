@@ -1,0 +1,1 @@
+I'm learning to code using "How to Think Like a Computer Scientist", python, and my own sparse wits. This project contains incremental code snippets as I work through various tutorials and self-imposed exercises. Good for learning purposes (or would be, if I was better at commenting).
